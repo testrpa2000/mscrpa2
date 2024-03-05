@@ -1,0 +1,39 @@
+Decision Statements are used in programming to make choices based on conditions. 
+
+Looping Statements repeat a block of code until a condition is met. 
+
+Basic Recording records user actions in software to automate tasks. 
+
+Desktop Recording automates tasks in desktop applications. 
+
+Web Recording automates tasks in web applications. 
+
+Generic Value is a flexible data type in RPA tools. 
+
+Attach Window Activity in RPA attaches to an application to perform actions.
+
+Element Triggering Event: An event that makes something happen on a computer by clicking on a specific part of a web page or application.
+
+Image Triggering Event: 
+A way of making something happen on a computer by recognizing images instead of text.
+
+System Triggering Event: 
+An event on a computer that happens because of changes in the system, like creating a file or starting up the system.
+
+Full Text: 
+Getting and using all the text information from different sources like documents and web pages in RPA.
+
+Native: 
+When an RPA tool can work with different systems without needing extra tools or add-ons.
+
+OCR (Optical Character Recognition): 
+Technology that reads text from images or scanned documents to use the text in other ways.
+
+Exception Handling: 
+Dealing with unexpected errors in a program to prevent crashing.
+
+Assistant Bot: 
+A program that talks to users, helps with tasks, gives info, or follows commands.
+
+State Machine: 
+A model that shows how systems work with different states and changes between them, used in software to control workflow and manage processes.
